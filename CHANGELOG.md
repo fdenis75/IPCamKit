@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1
+
+### Improvements
+
+- Use `memchr` for zero-byte scanning in H.264 depacketizer for better performance
+
 ## 0.1.0
 
 Initial release.
